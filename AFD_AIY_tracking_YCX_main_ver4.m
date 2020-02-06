@@ -5,7 +5,7 @@
 %% First, split the YCX image using metamorph, name them as 
   %FileName_CFP.tif and FileName_YFP.tif
 FileName='FileName'; % input the file name of your image file
-                     % ex) IK3212_20200101_YFP
+                     % ex) IK3212_20200101
 
 
 %%
