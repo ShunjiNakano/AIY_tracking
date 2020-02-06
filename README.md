@@ -1,4 +1,6 @@
 # AIY_tracking
+A MatLab program for the image analysis with a deeplabcut csv file. 
+Developed under MatLab2019b.
 
 HOW TO USE
 1. Prepare the two image files (ex. YFP and CFP images) and put the csv files from deeplabcut.
